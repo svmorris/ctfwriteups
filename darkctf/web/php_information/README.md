@@ -1,7 +1,3 @@
-# some first thoughts:
-i should remove the source from the top, maybe just upload it as a file as part of the writeup
-instead i should have snippets at each flag part
-
 # web/php information
 First lets look at the code. I posted the commented version of the server side code to this git repo.
 
