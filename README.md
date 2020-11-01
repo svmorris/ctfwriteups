@@ -1,2 +1,2 @@
-# ctfwriteups
-this is where i create writups for ctfs i have done
+# team_ctfwriteups
+This is where we TEAM0001 put/link group writups
