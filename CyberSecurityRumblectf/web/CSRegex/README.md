@@ -14,7 +14,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [how we got to the solution](#how we got to the solution)
+   * [how we got to the solution](#how_we_got_to_the_solution)
    * [solution](#solution)
 <!--te-->
 
