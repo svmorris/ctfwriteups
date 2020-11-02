@@ -14,11 +14,11 @@ Table of contents
 =================
 
 <!--ts-->
-   * [our process](#gh-md-toc)
-   * [solution](#dependency)
+   * [how we got to the solution](#how we got to the solution)
+   * [solution](#solution)
 <!--te-->
 
-## how we got to the solution
+how we got to the solution
 =============================
 
 we are greeted with a regex tesiting page, In the main box you can enter a regular expression, which will be evaluated and the output will be shown in the bottom
@@ -66,7 +66,7 @@ z'.match()/gi);let files = [];const fs = process.mainModule.require('fs'); fs.re
 
 
 
-## solution
+solution
 ===========
 start reading the files to see if there is anything interesting in either one
 ```js
