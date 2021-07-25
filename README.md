@@ -1,2 +1,1 @@
-# team_ctfwriteups
-This is where we TEAM0001 put/link group writups
+Old ctf writups, new ones are now on the [my teams github account](https://github.com/team0001-ctf/ctf-writups)
